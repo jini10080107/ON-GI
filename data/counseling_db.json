@@ -1,0 +1,189 @@
+{
+  "sessions": [
+    {
+      "id": "session-demo-1",
+      "topicId": "parent_complaint",
+      "topicTitle": "학부모의 날 선 전화와 민원에 가슴이 내려앉았을 때",
+      "category": "민원 & 교권",
+      "date": "2026-10-22T06:27:21.408Z",
+      "formattedDate": "2일 전",
+      "beforeStress": 9,
+      "afterStress": 4,
+      "selectedOptions": [
+        "다시 연락이 올까 봐 휴대폰만 울려도 심장이 뜁니다",
+        "상대의 비상식적인 태도와 내 교직관을 분리하고 싶습니다"
+      ],
+      "userNotes": "방과 후에 5시 넘어 온 폭언 섞인 문자 때문에 손이 덜덜 떨렸음. 내 잘못이 아니라는 것을 곱씹으며 마음을 가다듬음.",
+      "teacherMemo": "교감선생님께 통화 내용 보고 완료함. 안심번호 퇴근 후 자동 차단 모드 설정함.",
+      "status": "마음안정",
+      "prescription": {
+        "title": "민원 트라우마 완화를 위한 마음 처방전",
+        "diagnosisName": "감정적 피습 후 급성 스트레스 상태",
+        "warmMessage": "선생님, 오늘 정말 많이 놀라고 무서우셨을 텐데 교실을 끝까지 지키셨습니다. 그것만으로도 선생님은 오늘 할 수 있는 최선을 다하셨습니다.",
+        "prescribedHabits": [
+          "퇴근 즉시 학교 업무 알림 완전 음소거 및 안심번호 꺼두기",
+          "따뜻한 차 한 잔 마시며 4-7-8 안정화 호흡 3세트 진행하기",
+          "믿을 수 있는 동료나 가족에게 솔직하게 털어놓기"
+        ],
+        "affirmation": "“나는 최선을 다했고, 타인의 무례함은 결코 나의 존엄과 가치를 훼손할 수 없다.”"
+      }
+    },
+    {
+      "id": "session-demo-3",
+      "topicId": "parent_complaint",
+      "topicTitle": "밤늦게 울린 장문의 항의 카톡으로 밤을 꼬박 새웠을 때",
+      "category": "민원 & 교권",
+      "date": "2026-10-19T06:27:21.408Z",
+      "formattedDate": "5일 전",
+      "beforeStress": 9,
+      "afterStress": 4,
+      "selectedOptions": [
+        "학교나 관리자가 나를 보호해주지 않을 것 같아 외롭습니다",
+        "상대의 비상식적인 태도와 내 교직관을 분리하고 싶습니다"
+      ],
+      "userNotes": "아이가 다쳤다는 이유로 교사에게 책임을 전가하는 장문의 문자. 심장이 터질 것 같아 밤에 잠을 한숨도 못 잤음.",
+      "teacherMemo": "교무부장님과 상의 후 공식 면담 절차로 안내함. 밤에는 절대 답장하지 않기로 규칙 세움.",
+      "status": "마음안정",
+      "prescription": {
+        "title": "야간 민원 차단 및 불안 완화 처방전",
+        "diagnosisName": "사적 영역 침해 후 과각성 상태",
+        "warmMessage": "선생님의 밤은 온전히 선생님 자신의 것입니다. 밤늦은 메시지에 즉시 답하지 않아도 선생님은 지극히 성실한 교사입니다.",
+        "prescribedHabits": [
+          "침실에 스마트폰 반입 금지",
+          "내일 아침 공식 출근 시간까지 문자 다시 열어보지 않기"
+        ],
+        "affirmation": "“교직은 직업일 뿐, 내 사생활과 휴식권은 침해받을 수 없다.”"
+      }
+    },
+    {
+      "id": "session-demo-4",
+      "topicId": "overwork_burnout",
+      "topicTitle": "끝없는 공문과 행정 업무로 영혼이 방전되었을 때",
+      "category": "업무 & 번아웃",
+      "date": "2026-10-20T06:27:21.408Z",
+      "formattedDate": "4일 전",
+      "beforeStress": 8,
+      "afterStress": 5,
+      "selectedOptions": [
+        "10% 미만: 아침에 눈을 뜨면 출근하기가 두렵고 눈물이 납니다",
+        "침대에 누워 아무 생각도 안 하고 멍때리기"
+      ],
+      "userNotes": "수업 준비는 10분도 못 했는데 결재 공문만 6개 처리하느라 하루가 다 감. 교사인지 서무인지 모르겠다는 회의감.",
+      "teacherMemo": "일단 급한 기안 1개만 끝내고 나머지는 내일로 넘김. 5시 정시 퇴근 성공.",
+      "status": "진행중",
+      "prescription": {
+        "title": "과중 업무 번아웃 회복 처방전",
+        "diagnosisName": "만성 업무 과부하 및 정서적 탈진",
+        "warmMessage": "선생님, 세상의 모든 공문을 다 처리해도 내 영혼이 다치면 아무 소용이 없습니다.",
+        "prescribedHabits": [
+          "내일 할 일 2가지만 적고 퇴근길 가방 가볍게 하기",
+          "저녁 8시 이후 학교 메신저 알림 완전 차단하기"
+        ],
+        "affirmation": "“나는 완벽할 필요가 없다. 80%만으로도 나는 이미 훌륭한 교사다.”"
+      }
+    },
+    {
+      "id": "session-demo-2",
+      "topicId": "student_struggle",
+      "topicTitle": "수업 방해와 생활지도 갈등으로 깊은 무력감이 들 때",
+      "category": "학생 지도",
+      "date": "2026-10-18T06:27:21.408Z",
+      "formattedDate": "6일 전",
+      "beforeStress": 8,
+      "afterStress": 5,
+      "selectedOptions": [
+        "비웃거나 무시하는 태도를 보일 때 가슴에서 피눈물이 납니다",
+        "감정적으로 폭발하지 않고 침묵으로 교실을 정돈한 것"
+      ],
+      "userNotes": "3교시 수업 시간에 지시를 대놓고 거부하는 학생 때문에 순간 너무 화가 났지만 심호흡으로 버텼음.",
+      "teacherMemo": "Wee 클래스 전문상담선생님께 연계 상담 요청서 제출. 나 혼자 떠안지 않기로 다짐.",
+      "status": "진행중",
+      "prescription": {
+        "title": "생활지도 탈진 극복을 위한 마음 처방전",
+        "diagnosisName": "교육적 효능감 일시적 저하",
+        "warmMessage": "선생님은 아이들의 잘못된 행동에 대해 처벌하거나 고쳐내는 기계가 아닙니다. 선생님의 따뜻한 눈빛을 기억하는 아이들이 훨씬 많습니다.",
+        "prescribedHabits": [
+          "아이의 문제 행동 관찰 일지는 교무실 서랍에 두고 가방 가볍게 퇴근하기",
+          "나를 좋아하는 학생이 써줬던 편지나 쪽지 꺼내 읽기"
+        ],
+        "affirmation": "“나는 완전하지 않아도 충분히 좋은 교사이며, 내 존재 자체로 교실에 안정을 준다.”"
+      }
+    },
+    {
+      "id": "session-demo-5",
+      "topicId": "imposter_guilt",
+      "topicTitle": "“내가 좋은 교사일까?” 자책과 자괴감이 밀려올 때",
+      "category": "자존감 & 죄책감",
+      "date": "2026-10-15T06:27:21.408Z",
+      "formattedDate": "9일 전",
+      "beforeStress": 7,
+      "afterStress": 3,
+      "selectedOptions": [
+        "“나 때문에 우리 반 아이들이 손해 보는 것 같아 미안해요”",
+        "소외되거나 힘들어하는 아이를 그냥 지나치지 못하는 따뜻한 눈"
+      ],
+      "userNotes": "옆 반 선생님의 활기찬 수업 소리를 들으며 나 자신이 너무 초라하게 느껴졌던 날.",
+      "teacherMemo": "아이들에게 받은 쪽지함을 열어보고 마음을 달램. 완벽하지 않아도 된다고 스스로를 다독임.",
+      "status": "마음안정",
+      "prescription": {
+        "title": "자기 자비와 자존감 회복 처방전",
+        "diagnosisName": "가면 증후군 및 교육적 죄책감 과다",
+        "warmMessage": "선생님, 고민하고 괴로워하는 밤이 길다는 건 그만큼 아이들을 사랑하기 때문입니다.",
+        "prescribedHabits": [
+          "거울을 보며 내 이름 불러주며 칭찬하기",
+          "아이들과 나눈 사소한 감사 일기 쓰기"
+        ],
+        "affirmation": "“나는 배우고 성장하는 인간적인 교사이며, 내 온기는 아이들의 가슴에 영원히 남는다.”"
+      }
+    }
+  ],
+  "burnoutRecords": [
+    {
+      "id": "burnout-demo-1",
+      "date": "2026-10-21T06:27:21.408Z",
+      "formattedDate": "3일 전",
+      "totalScore": 21,
+      "level": "주의 (노란불)",
+      "color": "#D97706",
+      "emotionalScore": 11,
+      "depersonalizationScore": 4,
+      "accomplishmentScore": 6
+    }
+  ],
+  "prescriptions": [
+    {
+      "id": "presc-demo-1",
+      "title": "민원 트라우마 완화를 위한 마음 처방전",
+      "diagnosisName": "감정적 피습 후 급성 스트레스 상태",
+      "date": "2026-10-22T06:27:21.408Z",
+      "warmMessage": "선생님, 오늘 정말 많이 놀라고 무서우셨을 텐데 교실을 끝까지 지키셨습니다.",
+      "affirmation": "“나는 최선을 다했고, 타인의 무례함은 결코 나의 존엄과 가치를 훼손할 수 없다.”"
+    }
+  ],
+  "communityNotes": [
+    {
+      "id": "note-1",
+      "authorTag": "초등 7년차 담임",
+      "content": "선생님, 오늘 점심시간에도 싸운 아이들 중재하고 쏟아지는 공문 보느라 물 한 잔 편히 못 드셨죠? 오늘 하루도 교실을 지켜내신 것만으로도 선생님은 대단한 영웅입니다. 오늘 밤은 푹 주무세요.",
+      "date": "방금 전",
+      "likes": 86,
+      "liked": false
+    },
+    {
+      "id": "note-2",
+      "authorTag": "중등 3년차 수학",
+      "content": "학부모 민원에 가슴 떨리던 날, 옆자리 부장님이 건네주신 믹스커피 한 잔에 펑펑 울었던 기억이 납니다. 선생님 탓이 아니에요. 그 사람의 화는 그 사람의 결핍일 뿐입니다. 힘내세요!",
+      "date": "10분 전",
+      "likes": 131,
+      "liked": false
+    },
+    {
+      "id": "note-3",
+      "authorTag": "고3 담임 12년차",
+      "content": "아이들이 내 마음을 몰라주고 거친 말을 뱉을 때마다 교직에 회의가 들곤 합니다. 하지만 졸업하고 몇 년 뒤 불쑥 찾아와 \"그때 선생님 눈빛 덕분에 살았어요\"라고 말하는 녀석이 꼭 있더군요. 선생님의 진심은 사라지지 않습니다.",
+      "date": "35분 전",
+      "likes": 218,
+      "liked": false
+    }
+  ]
+}
